@@ -153,43 +153,6 @@
         <gravity>1</gravity>
       </link>
     </model>
-    <model name='container_light_2'>
-      <static>1</static>
-      <link name='link'>
-        <visual name='visual'>
-          <geometry>
-            <mesh>
-              <uri>model://Container_Light.dae</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <collision name='collision'>
-          <geometry>
-            <mesh>
-              <uri>model://Container_Light.dae</uri>
-            </mesh>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <bounce/>
-            <friction>
-              <ode/>
-            </friction>
-            <contact>
-              <ode/>
-            </contact>
-          </surface>
-        </collision>
-        <velocity_decay>
-          <linear>0</linear>
-          <angular>0</angular>
-        </velocity_decay>
-        <pose>0 0 0 0 -0 0</pose>
-        <self_collide>0</self_collide>
-        <kinematic>0</kinematic>
-        <gravity>1</gravity>
-      </link>
-    </model>
     <model name='container_light_3'>
       <static>1</static>
       <link name='link'>
@@ -1042,13 +1005,13 @@
       </link>
     </model>
     <state world_name='default'>
-      <sim_time>1441 387000000</sim_time>
-      <real_time>56 964594873</real_time>
-      <wall_time>1454524438 96937429</wall_time>
+      <sim_time>1672 924000000</sim_time>
+      <real_time>123 28501475</real_time>
+      <wall_time>1454531811 431162870</wall_time>
       <model name='container_light'>
-        <pose>-8.32603 -5.63204 0 0 -0 0</pose>
+        <pose>-11.3197 -3.35338 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-8.32603 -5.63204 0 0 -0 0</pose>
+          <pose>-11.3197 -3.35338 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1064,9 +1027,9 @@
         </link>
       </model>
       <model name='container_light_10'>
-        <pose>0.314992 -0.599164 0 0 -0 0</pose>
+        <pose>0.323177 -3.39699 0 0 -0 0</pose>
         <link name='link'>
-          <pose>0.314992 -0.599164 0 0 -0 0</pose>
+          <pose>0.323177 -3.39699 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1153,15 +1116,6 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='container_light_2'>
-        <pose>-8.68368 -0.703643 0 0 -0 0</pose>
-        <link name='link'>
-          <pose>-8.68368 -0.703643 0 0 -0 0</pose>
-          <velocity>0 0 0 0 -0 0</velocity>
-          <acceleration>0 0 0 0 -0 0</acceleration>
-          <wrench>0 0 0 0 -0 0</wrench>
-        </link>
-      </model>
       <model name='container_light_20'>
         <pose>-1.12231 -9.2128 0 0 -0 0</pose>
         <link name='link'>
@@ -1217,18 +1171,18 @@
         </link>
       </model>
       <model name='container_light_3'>
-        <pose>0.317726 -3.07821 0 0 -0 0</pose>
+        <pose>8.35557 6.42447 0 0 -0 0</pose>
         <link name='link'>
-          <pose>0.317726 -3.07821 0 0 -0 0</pose>
+          <pose>8.35557 6.42447 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_4'>
-        <pose>-0.958778 -5.56448 0 0 -0 0</pose>
+        <pose>-5.36967 -5.74809 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-0.958778 -5.56448 0 0 -0 0</pose>
+          <pose>-5.36967 -5.74809 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1327,7 +1281,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>17.4222 -9.1571 90.4352 0 1.38171 1.91933</pose>
+        <pose>4.08153 -1.53308 24.7207 2.76731e-16 1.36883 1.99065</pose>
         <view_controller>orbit</view_controller>
       </camera>
     </gui>
