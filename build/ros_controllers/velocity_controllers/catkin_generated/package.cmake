@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "velocity_controllers")
-set(velocity_controllers_MAINTAINER "Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>")
-set(velocity_controllers_DEPRECATED "")
-set(velocity_controllers_VERSION "0.9.2")
-set(velocity_controllers_BUILD_DEPENDS "angles" "control_msgs" "control_toolbox" "controller_interface" "forward_command_controller" "realtime_tools" "urdf")
-set(velocity_controllers_RUN_DEPENDS "angles" "control_msgs" "control_toolbox" "controller_interface" "forward_command_controller" "realtime_tools" "urdf")
-set(velocity_controllers_BUILDTOOL_DEPENDS "catkin")

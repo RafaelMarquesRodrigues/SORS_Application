@@ -1,8 +1,0 @@
-prefix=/home/rafael/SORS_Application/install
-
-Name: joint_trajectory_controller
-Description: Description of joint_trajectory_controller
-Version: 0.9.2
-Cflags: -I/home/rafael/SORS_Application/install/include
-Libs: -L/home/rafael/SORS_Application/install/lib -ljoint_trajectory_controller
-Requires: actionlib angles roscpp urdf control_toolbox controller_interface hardware_interface realtime_tools control_msgs trajectory_msgs controller_manager xacro

@@ -1,8 +1,0 @@
-prefix=/home/rafael/SORS_Application/devel
-
-Name: tf
-Description: Description of tf
-Version: 1.11.7
-Cflags: -I/home/rafael/SORS_Application/devel/include -I/home/rafael/SORS_Application/src/tf/include
-Libs: -L/home/rafael/SORS_Application/devel/lib -ltf
-Requires: geometry_msgs message_filters message_runtime roscpp sensor_msgs std_msgs tf2_ros rosconsole

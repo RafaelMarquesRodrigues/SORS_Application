@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "rqt_joint_trajectory_controller")
-set(rqt_joint_trajectory_controller_MAINTAINER "Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>")
-set(rqt_joint_trajectory_controller_DEPRECATED "")
-set(rqt_joint_trajectory_controller_VERSION "0.9.2")
-set(rqt_joint_trajectory_controller_BUILD_DEPENDS )
-set(rqt_joint_trajectory_controller_RUN_DEPENDS "control_msgs" "controller_manager_msgs" "trajectory_msgs" "rospy" "rqt_gui" "rqt_gui_py")
-set(rqt_joint_trajectory_controller_BUILDTOOL_DEPENDS "catkin")

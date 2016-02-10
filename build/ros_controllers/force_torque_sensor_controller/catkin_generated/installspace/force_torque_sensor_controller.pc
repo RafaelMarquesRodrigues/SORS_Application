@@ -1,8 +1,0 @@
-prefix=/home/rafael/SORS_Application/install
-
-Name: force_torque_sensor_controller
-Description: Description of force_torque_sensor_controller
-Version: 0.9.2
-Cflags: -I/home/rafael/SORS_Application/install/include
-Libs: -L/home/rafael/SORS_Application/install/lib -lforce_torque_sensor_controller
-Requires: controller_interface hardware_interface geometry_msgs realtime_tools

@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "pioneer3at")
-set(pioneer3at_MAINTAINER "Dereck Wonnacott <dereck@gmail.com>")
-set(pioneer3at_DEPRECATED "")
-set(pioneer3at_VERSION "0.1.0")
-set(pioneer3at_BUILD_DEPENDS "roscpp" "sensor_msgs" "nav_msgs" "tf")
-set(pioneer3at_RUN_DEPENDS "roscpp" "sensor_msgs" "nav_msgs" "tf" "robot_state_publisher" "joy" "ps3joy" "sicktoolbox_wrapper" "urg_node" "amcl" "gmapping" "move_base" "diagnostics")
-set(pioneer3at_BUILDTOOL_DEPENDS "catkin")

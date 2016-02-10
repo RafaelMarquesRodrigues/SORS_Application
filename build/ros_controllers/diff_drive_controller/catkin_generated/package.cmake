@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "diff_drive_controller")
-set(diff_drive_controller_MAINTAINER "Bence Magyar <bence.magyar@pal-robotics.com>")
-set(diff_drive_controller_DEPRECATED "")
-set(diff_drive_controller_VERSION "0.9.2")
-set(diff_drive_controller_BUILD_DEPENDS "controller_interface" "nav_msgs" "realtime_tools" "tf" "urdf" "rostest")
-set(diff_drive_controller_RUN_DEPENDS "controller_interface" "nav_msgs" "realtime_tools" "tf" "urdf")
-set(diff_drive_controller_BUILDTOOL_DEPENDS "catkin")

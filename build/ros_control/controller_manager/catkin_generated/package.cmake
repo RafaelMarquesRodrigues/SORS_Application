@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "controller_manager")
-set(controller_manager_MAINTAINER "Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>")
-set(controller_manager_DEPRECATED "")
-set(controller_manager_VERSION "0.9.3")
-set(controller_manager_BUILD_DEPENDS "controller_interface" "controller_manager_msgs" "hardware_interface" "pluginlib" "realtime_tools" "rostest")
-set(controller_manager_RUN_DEPENDS "controller_interface" "controller_manager_msgs" "hardware_interface" "pluginlib" "realtime_tools" "rostest")
-set(controller_manager_BUILDTOOL_DEPENDS "catkin")

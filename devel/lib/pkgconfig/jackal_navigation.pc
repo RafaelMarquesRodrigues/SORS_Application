@@ -1,8 +1,0 @@
-prefix=/home/rafael/SORS_Application/devel
-
-Name: jackal_navigation
-Description: Description of jackal_navigation
-Version: 0.5.1
-Cflags: 
-Libs: -L/home/rafael/SORS_Application/devel/lib 
-Requires: 

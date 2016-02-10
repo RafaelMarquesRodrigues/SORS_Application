@@ -1,8 +1,0 @@
-prefix=/home/rafael/SORS_Application/install
-
-Name: statistics_msgs
-Description: Description of statistics_msgs
-Version: 0.12.1
-Cflags: -I/home/rafael/SORS_Application/install/include
-Libs: -L/home/rafael/SORS_Application/install/lib 
-Requires: message_runtime
