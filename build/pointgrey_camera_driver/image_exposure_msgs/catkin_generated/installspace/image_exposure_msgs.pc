@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/install
+
+Name: image_exposure_msgs
+Description: Description of image_exposure_msgs
+Version: 0.12.1
+Cflags: -I/home/rafael/SORS_Application/install/include
+Libs: -L/home/rafael/SORS_Application/install/lib 
+Requires: statistics_msgs std_msgs message_runtime

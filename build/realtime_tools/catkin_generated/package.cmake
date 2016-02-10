@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "realtime_tools")
+set(realtime_tools_MAINTAINER "Stuart Glaser <sglaser@willowgarage.com>")
+set(realtime_tools_DEPRECATED "")
+set(realtime_tools_VERSION "1.9.1")
+set(realtime_tools_BUILD_DEPENDS "roscpp" "rospy")
+set(realtime_tools_RUN_DEPENDS "roscpp" "rospy")
+set(realtime_tools_BUILDTOOL_DEPENDS "catkin")

@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/install
+
+Name: robot_control
+Description: Description of robot_control
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rafael/SORS_Application/install/lib 
+Requires: 

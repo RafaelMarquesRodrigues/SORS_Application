@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/install
+
+Name: pioneer3at
+Description: Description of pioneer3at
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/rafael/SORS_Application/install/lib 
+Requires: roscpp sensor_msgs nav_msgs tf

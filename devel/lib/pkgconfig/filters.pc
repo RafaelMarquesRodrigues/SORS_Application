@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/devel
+
+Name: filters
+Description: Description of filters
+Version: 1.6.0
+Cflags: -I/home/rafael/SORS_Application/src/filters/include
+Libs: -L/home/rafael/SORS_Application/devel/lib -lmean -lparams -lincrement -lmedian -ltransfer_function
+Requires: pluginlib

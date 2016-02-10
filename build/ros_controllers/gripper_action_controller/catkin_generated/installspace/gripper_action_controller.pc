@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/install
+
+Name: gripper_action_controller
+Description: Description of gripper_action_controller
+Version: 0.9.2
+Cflags: -I/home/rafael/SORS_Application/install/include
+Libs: -L/home/rafael/SORS_Application/install/lib -lgripper_action_controller
+Requires: actionlib cmake_modules control_msgs controller_interface hardware_interface realtime_tools

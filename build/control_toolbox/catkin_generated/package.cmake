@@ -1,0 +1,8 @@
+set(_CATKIN_CURRENT_PACKAGE "control_toolbox")
+set(control_toolbox_VERSION "1.13.2")
+set(control_toolbox_MAINTAINER "Sachin Chitta <sachinc@willowgarage.com>")
+set(control_toolbox_BUILD_DEPENDS "cmake_modules" "std_msgs" "roscpp" "message_generation" "dynamic_reconfigure" "tinyxml" "realtime_tools")
+set(control_toolbox_RUN_DEPENDS "cmake_modules" "std_msgs" "roscpp" "message_runtime" "dynamic_reconfigure" "tinyxml" "realtime_tools")
+set(control_toolbox_DEPRECATED "")
+set(control_toolbox_BUILDTOOL_DEPENDS "catkin")
+set(control_toolbox_BUILDTOOL_DEPENDS_catkin_VERSION_GTE "0.5.68")

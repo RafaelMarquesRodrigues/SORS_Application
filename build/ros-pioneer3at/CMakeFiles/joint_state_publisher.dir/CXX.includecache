@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rafael/SORS_Application/src/ros-pioneer3at/src/joint_state_publisher.cc
+ros/ros.h
+-
+sensor_msgs/JointState.h
+-
+

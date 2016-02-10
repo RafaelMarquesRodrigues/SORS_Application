@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/install
+
+Name: controller_manager_tests
+Description: Description of controller_manager_tests
+Version: 0.9.3
+Cflags: -I/home/rafael/SORS_Application/install/include
+Libs: -L/home/rafael/SORS_Application/install/lib -lcontroller_manager_tests
+Requires: controller_manager controller_interface control_toolbox
