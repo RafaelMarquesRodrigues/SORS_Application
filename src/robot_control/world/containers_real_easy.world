@@ -1116,40 +1116,40 @@
       </link>
     </model>
     <state world_name='default'>
-      <sim_time>3850 762000000</sim_time>
-      <real_time>234 848623913</real_time>
-      <wall_time>1456333569 887784993</wall_time>
+      <sim_time>4537 42000000</sim_time>
+      <real_time>688 859074250</real_time>
+      <wall_time>1457822711 147095168</wall_time>
       <model name='container_light'>
-        <pose>-18.1999 -17.4267 0 0 -0 0</pose>
+        <pose>-5.5576 -11.4013 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-18.1999 -17.4267 0 0 -0 0</pose>
+          <pose>-5.5576 -11.4013 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_1'>
-        <pose>5.9611 -19.5298 0 0 -0 0</pose>
+        <pose>5.94443 -18.7731 0 0 -0 0</pose>
         <link name='link'>
-          <pose>5.9611 -19.5298 0 0 -0 0</pose>
+          <pose>5.94443 -18.7731 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_10'>
-        <pose>-2.34515 2.04909 0 0 -0 0</pose>
+        <pose>-2.33866 2.49373 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-2.34515 2.04909 0 0 -0 0</pose>
+          <pose>-2.33866 2.49373 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_11'>
-        <pose>-2.68089 3.42939 0 0 -0 1.57314</pose>
+        <pose>-2.68068 3.42939 0 0 -0 1.57314</pose>
         <link name='link'>
-          <pose>-2.68089 3.42939 0 0 -0 1.57314</pose>
+          <pose>-2.68068 3.42939 0 0 -0 1.57314</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1165,9 +1165,9 @@
         </link>
       </model>
       <model name='container_light_13'>
-        <pose>-4.00283 13.4752 0 0 -0 0</pose>
+        <pose>9.01325 -3.34336 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-4.00283 13.4752 0 0 -0 0</pose>
+          <pose>9.01325 -3.34336 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1192,9 +1192,9 @@
         </link>
       </model>
       <model name='container_light_16'>
-        <pose>5.95656 -17.1018 0 0 -0 0</pose>
+        <pose>-0.819249 -18.8404 0 0 -0 0</pose>
         <link name='link'>
-          <pose>5.95656 -17.1018 0 0 -0 0</pose>
+          <pose>-0.819249 -18.8404 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1210,18 +1210,18 @@
         </link>
       </model>
       <model name='container_light_18'>
-        <pose>-10.4307 -12.6619 0 0 -0 0</pose>
+        <pose>1.07894 -13.8537 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-10.4307 -12.6619 0 0 -0 0</pose>
+          <pose>1.07894 -13.8537 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_19'>
-        <pose>-16.8063 15.3734 0 0 0 -1.55817</pose>
+        <pose>-19.8976 10.8029 0 0 0 -1.55817</pose>
         <link name='link'>
-          <pose>-16.8063 15.3734 0 0 0 -1.55817</pose>
+          <pose>-19.8976 10.8029 0 0 0 -1.55817</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1237,45 +1237,45 @@
         </link>
       </model>
       <model name='container_light_20'>
-        <pose>-0.551434 -11.5492 0 0 -0 0</pose>
+        <pose>-0.666369 -7.40845 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-0.551434 -11.5492 0 0 -0 0</pose>
+          <pose>-0.666369 -7.40845 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_21'>
-        <pose>0.529023 -11.3965 0 0 -0 3.13676</pose>
+        <pose>0.575594 -11.4392 0 0 -0 3.13676</pose>
         <link name='link'>
-          <pose>0.529023 -11.3965 0 0 -0 3.13676</pose>
+          <pose>0.575594 -11.4392 0 0 -0 3.13676</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_22'>
-        <pose>-14.4558 15.4993 0 0 0 -1.56427</pose>
+        <pose>-14.3331 22.0807 0 0 0 -1.56427</pose>
         <link name='link'>
-          <pose>-14.4558 15.4993 0 0 0 -1.56427</pose>
+          <pose>-14.3331 22.0807 0 0 0 -1.56427</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_23'>
-        <pose>-14.4566 -1.07243 0 0 0 -1.56427</pose>
+        <pose>-11.7821 1.9667 0 0 0 -1.56427</pose>
         <link name='link'>
-          <pose>-14.4566 -1.07243 0 0 0 -1.56427</pose>
+          <pose>-11.7821 1.9667 0 0 0 -1.56427</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_24'>
-        <pose>2.47158 6.37352 0 0 0 -1.56427</pose>
+        <pose>2.50857 6.71393 0 0 0 -1.56427</pose>
         <link name='link'>
-          <pose>2.47158 6.37352 0 0 0 -1.56427</pose>
+          <pose>2.50857 6.71393 0 0 0 -1.56427</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1291,18 +1291,18 @@
         </link>
       </model>
       <model name='container_light_26'>
-        <pose>2.33838 -22.4051 0 0 -0 1.55785</pose>
+        <pose>-6.59303 -22.2954 0 0 -0 1.58068</pose>
         <link name='link'>
-          <pose>2.33838 -22.4051 0 0 -0 1.55785</pose>
+          <pose>-6.59303 -22.2954 0 0 -0 1.58068</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_27'>
-        <pose>-22.2926 -7.67666 0 0 -0 0</pose>
+        <pose>-18.9007 -11.4256 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-22.2926 -7.67666 0 0 -0 0</pose>
+          <pose>-18.9007 -11.4256 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1318,27 +1318,27 @@
         </link>
       </model>
       <model name='container_light_4'>
-        <pose>10.3257 -7.35123 0 0 -0 0</pose>
+        <pose>6.08467 -7.39734 0 0 -0 0</pose>
         <link name='link'>
-          <pose>10.3257 -7.35123 0 0 -0 0</pose>
+          <pose>6.08467 -7.39734 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_5'>
-        <pose>-10.6475 -2.67742 0 0 -0 1.5716</pose>
+        <pose>-12.2581 -18.6225 0 0 -0 1.5716</pose>
         <link name='link'>
-          <pose>-10.6475 -2.67742 0 0 -0 1.5716</pose>
+          <pose>-12.2581 -18.6225 0 0 -0 1.5716</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_6'>
-        <pose>9.02207 8.31396 0 0 -0 0</pose>
+        <pose>-22.3262 6.50418 0 0 -0 0</pose>
         <link name='link'>
-          <pose>9.02207 8.31396 0 0 -0 0</pose>
+          <pose>-22.3262 6.50418 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1354,18 +1354,18 @@
         </link>
       </model>
       <model name='container_light_8'>
-        <pose>-10.3411 -10.3424 0 0 -0 0</pose>
+        <pose>-12.2644 -11.4031 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-10.3411 -10.3424 0 0 -0 0</pose>
+          <pose>-12.2644 -11.4031 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='container_light_9'>
-        <pose>-2.41658 4.4934 0 0 -0 0</pose>
+        <pose>-2.30796 5.00167 0 0 -0 0</pose>
         <link name='link'>
-          <pose>-2.41658 4.4934 0 0 -0 0</pose>
+          <pose>-2.30796 5.00167 0 0 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1419,7 +1419,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose>5.55485 -0.028327 83.8182 4.1e-05 1.5698 -1.67054</pose>
+        <pose>2.27979 -0.166101 87.2372 -4.3528e-16 1.5698 -3.13555</pose>
         <view_controller>orbit</view_controller>
       </camera>
     </gui>
