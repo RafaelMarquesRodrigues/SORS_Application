@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/install
+
+Name: pointgrey_camera_driver
+Description: Description of pointgrey_camera_driver
+Version: 0.12.1
+Cflags: -I/home/rafael/SORS_Application/install/include
+Libs: -L/home/rafael/SORS_Application/install/lib 
+Requires: roscpp nodelet

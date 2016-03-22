@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/install
+
+Name: wfov_camera_msgs
+Description: Description of wfov_camera_msgs
+Version: 0.12.1
+Cflags: -I/home/rafael/SORS_Application/install/include
+Libs: -L/home/rafael/SORS_Application/install/lib 
+Requires: sensor_msgs message_runtime

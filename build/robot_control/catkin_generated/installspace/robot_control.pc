@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/install
+
+Name: robot_control
+Description: Description of robot_control
+Version: 0.0.0
+Cflags: -I/home/rafael/SORS_Application/install/include
+Libs: -L/home/rafael/SORS_Application/install/lib -lrobot_control
+Requires: roscpp std_msgs message_runtime actionlib_msgs

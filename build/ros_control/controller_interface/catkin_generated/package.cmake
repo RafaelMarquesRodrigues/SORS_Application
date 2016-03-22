@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "controller_interface")
+set(controller_interface_MAINTAINER "Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>")
+set(controller_interface_DEPRECATED "")
+set(controller_interface_VERSION "0.10.0")
+set(controller_interface_BUILD_DEPENDS "roscpp" "hardware_interface" "pluginlib")
+set(controller_interface_RUN_DEPENDS "roscpp" "hardware_interface" "pluginlib")
+set(controller_interface_BUILDTOOL_DEPENDS "catkin")

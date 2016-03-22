@@ -1,0 +1,2 @@
+set(image_exposure_msgs_MESSAGE_FILES "/home/rafael/SORS_Application/src/pointgrey_camera_driver/image_exposure_msgs/msg/ExposureSequence.msg;/home/rafael/SORS_Application/src/pointgrey_camera_driver/image_exposure_msgs/msg/ImageExposureStatistics.msg;/home/rafael/SORS_Application/src/pointgrey_camera_driver/image_exposure_msgs/msg/SequenceExposureStatistics.msg")
+set(image_exposure_msgs_SERVICE_FILES "")

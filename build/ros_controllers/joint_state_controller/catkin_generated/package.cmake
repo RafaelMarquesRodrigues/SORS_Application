@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "joint_state_controller")
+set(joint_state_controller_MAINTAINER "Adolfo Rodriguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>")
+set(joint_state_controller_DEPRECATED "")
+set(joint_state_controller_VERSION "0.9.2")
+set(joint_state_controller_BUILD_DEPENDS "controller_interface" "hardware_interface" "pluginlib" "sensor_msgs" "realtime_tools" "roscpp")
+set(joint_state_controller_RUN_DEPENDS "controller_interface" "hardware_interface" "pluginlib" "sensor_msgs" "realtime_tools" "roscpp")
+set(joint_state_controller_BUILDTOOL_DEPENDS "catkin")

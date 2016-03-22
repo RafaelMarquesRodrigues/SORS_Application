@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/devel
+
+Name: diff_drive_controller
+Description: Description of diff_drive_controller
+Version: 0.9.2
+Cflags: -I/home/rafael/SORS_Application/src/ros_controllers/diff_drive_controller/include
+Libs: -L/home/rafael/SORS_Application/devel/lib -ldiff_drive_controller
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/install
+
+Name: jackal_msgs
+Description: Description of jackal_msgs
+Version: 0.5.1
+Cflags: -I/home/rafael/SORS_Application/install/include
+Libs: -L/home/rafael/SORS_Application/install/lib 
+Requires: std_msgs message_runtime

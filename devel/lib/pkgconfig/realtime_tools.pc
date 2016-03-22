@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/devel
+
+Name: realtime_tools
+Description: Description of realtime_tools
+Version: 1.9.1
+Cflags: -I/home/rafael/SORS_Application/src/realtime_tools/include
+Libs: -L/home/rafael/SORS_Application/devel/lib -lrealtime_tools
+Requires: roscpp rospy

@@ -1,0 +1,8 @@
+prefix=/home/rafael/SORS_Application/devel
+
+Name: rqt_joint_trajectory_controller
+Description: Description of rqt_joint_trajectory_controller
+Version: 0.9.2
+Cflags: 
+Libs: -L/home/rafael/SORS_Application/devel/lib 
+Requires: 
