@@ -1,8 +1,0 @@
-prefix=/home/rafael/SORS_Application/install
-
-Name: resource_retriever
-Description: Description of resource_retriever
-Version: 1.11.6
-Cflags: -I/home/rafael/SORS_Application/install/include
-Libs: -L/home/rafael/SORS_Application/install/lib -lresource_retriever
-Requires: 

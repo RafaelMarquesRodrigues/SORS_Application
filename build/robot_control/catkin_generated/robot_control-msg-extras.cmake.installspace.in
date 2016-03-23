@@ -1,2 +1,0 @@
-set(robot_control_MESSAGE_FILES "msg/laserMeasures.msg;msg/searchAction.msg;msg/searchActionGoal.msg;msg/searchActionResult.msg;msg/searchActionFeedback.msg;msg/searchGoal.msg;msg/searchResult.msg;msg/searchFeedback.msg;msg/createMapAction.msg;msg/createMapActionGoal.msg;msg/createMapActionResult.msg;msg/createMapActionFeedback.msg;msg/createMapGoal.msg;msg/createMapResult.msg;msg/createMapFeedback.msg")
-set(robot_control_SERVICE_FILES "srv/addToMap.srv;srv/defineGlobalPath.srv;srv/getPositions.srv")

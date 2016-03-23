@@ -1,8 +1,0 @@
-prefix=/home/rafael/SORS_Application/install
-
-Name: controller_interface
-Description: Description of controller_interface
-Version: 0.10.0
-Cflags: -I/home/rafael/SORS_Application/install/include
-Libs: -L/home/rafael/SORS_Application/install/lib 
-Requires: roscpp hardware_interface pluginlib

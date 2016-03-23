@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "rqt_controller_manager")
-set(rqt_controller_manager_MAINTAINER "Kelsey Hawkins <kphawkins@gatech.edu>, Adolfo Rodríguez Tsouroukdissian <adolfo.rodriguez@pal-robotics.com>")
-set(rqt_controller_manager_DEPRECATED "")
-set(rqt_controller_manager_VERSION "0.10.0")
-set(rqt_controller_manager_BUILD_DEPENDS "controller_manager" "rqt_gui")
-set(rqt_controller_manager_RUN_DEPENDS "controller_manager" "rqt_gui")
-set(rqt_controller_manager_BUILDTOOL_DEPENDS "catkin")

@@ -1,8 +1,0 @@
-prefix=/home/rafael/SORS_Application/install
-
-Name: laser_geometry
-Description: Description of laser_geometry
-Version: 1.6.4
-Cflags: -I/home/rafael/SORS_Application/install/include -I/usr/include -I/opt/ros/indigo/include/eigen3
-Libs: -L/home/rafael/SORS_Application/install/lib -llaser_geometry -l:/usr/lib/x86_64-linux-gnu/libboost_system.so -l:/usr/lib/x86_64-linux-gnu/libboost_thread.so -l:/usr/lib/x86_64-linux-gnu/libpthread.so
-Requires: 
