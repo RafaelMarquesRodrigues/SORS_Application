@@ -3,7 +3,7 @@
        by setting the JACKAL_URDF_EXTRAS environment variable to the full
        path of this file. -->
 
-  <camera_mount prefix="front" tilt="0.5236"/>
+  <camera_mount prefix="front" tilt="0"/>
   <joint name="front_camera_mount_joint" type="fixed">
     <origin xyz="0 0 0" rpy="0 0 0" />
     <parent link="front_mount" />
@@ -11,7 +11,7 @@
   </joint>
   <BB2-08S2C-38 frame="front_camera" name="front" />
   <joint name="front_camera_bracket_joint" type="fixed">
-    <origin xyz="0.007 0 0.02450" rpy="0 0 0" />
+    <origin xyz="0.05 0 -0.01" rpy="0 0 0" />
     <parent link="front_camera_beam" />
     <child link="front_camera" />
   </joint>
@@ -19,11 +19,12 @@
   <sick_lms1xx_mount prefix="front" topic="front/scan"/>
 
   <joint name="front_laser_mount_joint" type="fixed">
-    <origin xyz="0 0 0.002" rpy="0 0 0" />
+    <origin xyz="0 0 0" rpy="0 0 0" />
     <parent link="front_mount" />
     <child link="front_laser_mount" />
   </joint>
-
+</robot>
+<!--
   <camera_mount prefix="rear" tilt="0.5236"/>
   <joint name="rear_camera_mount_joint" type="fixed">
     <origin xyz="0 0 0" rpy="0 0 3.141" />
@@ -61,4 +62,4 @@
     <parent link="rear_upper_camera_beam" />
     <child link="rear_upper_camera" />
   </joint>
-</robot>
+-->

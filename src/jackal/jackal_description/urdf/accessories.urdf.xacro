@@ -8,6 +8,7 @@
     jackal_viz/launch/view_model.launch
     jackal_gazebo/launch/jackal_world.launch
     jackal_base/launch/base.launch
+  <xacro:include filename="accessories/kinect_camera.gazebo.xacro"/>
   -->
 
   <!-- Macros to generate standoffs for offset payload mounting. -->
